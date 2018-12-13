@@ -1,4 +1,4 @@
-# A Data Analysis on the Potential Effects of Neonicotinoids and Bee population
+# A Data Analysis on the Potential Effects of Neonicotinoids and Honey Bees
 
 Over the years there have been claims that Neonicotinoids are killing off bees. Studies have suggested that the pesticides are outright killing them 
 whereas, some are claiming that they kill them over an extended perioid of time. In this project I will do some analysis to see what I can deduce from the data.
